@@ -2,10 +2,13 @@
 Função em Python que gera chaves RSA *(n,p,q,e,d*) dado um input *l* que representa o comprimento em bits para *n*
 
 Realizado no âmbito da Unidade Curricular de Criptografia do Mestrado em Segurança Informática
+
 Departamento de Ciência de Computadores
+
 Faculdade de Ciências da Universidade do Porto
 
 Fábio Freitas - up201505331@fc.up.pt
+
 Nuno Lopes - up201505531@fc.up.pt
 
 ## Relatório de Implementação
