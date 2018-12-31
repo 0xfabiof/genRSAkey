@@ -9,6 +9,10 @@ Faculty of Sciences, University of Porto
 
 The full implementation report is below (Portuguese only)
 
+Fábio Freitas - up201505331@fc.up.pt
+
+Nuno Lopes - up201505531@fc.up.pt
+
 --
 ## genRSAkey
 Função em Python que gera chaves RSA *(n,p,q,e,d*) dado um input *l* que representa o comprimento em bits para *n*
